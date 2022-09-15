@@ -28,4 +28,4 @@ put ent in cra = https://create-react-app.dev/docs\
 
 ### Video Tutorial
 
-You can see my youtube video for this project in [here]()
+You can see my youtube video for this project in [here](https://youtu.be/f4f7vwL4TcQ)
